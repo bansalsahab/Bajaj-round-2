@@ -169,3 +169,6 @@ The system performs nuanced range analysis to determine if values are outside re
 - **Scientific Notation Parsing**: Correctly processes values in scientific notation
 - **Unit Awareness**: Considers units when comparing values to ranges
 - **Proximity Analysis**: For complex formats, evaluates how far values are from reference points
+
+### 5. Output
+![image](https://github.com/user-attachments/assets/72816a65-8413-44da-8d7c-09042925f75c)
